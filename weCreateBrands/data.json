@@ -1,0 +1,367 @@
+{
+    "firstAbout": [
+      {
+        "id": 1,
+        "title": {
+          "en": "Unique approach",
+          "ru": "Уникальный подход",
+          "hy": "Ունիկալ մոտեցում"
+        },
+        "description": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "icon": "fa-solid fa-coins"
+      },
+      {
+        "id": 2,
+        "title": {
+          "en": "Service mix",
+          "ru": "Смешение услуг",
+          "hy": "Ծառայությունների խառնուրդ"
+        },
+        "description": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "icon": "fa-solid fa-square-poll-vertical"
+      },
+      {
+        "id": 3,
+        "title": {
+          "en": "Our Mission",
+          "ru": "Наша миссия",
+          "hy": "Մեր առաքելությունը"
+        },
+        "description": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "icon": "fa-solid fa-flag"
+      },
+      {
+        "id": 4,
+        "title": {
+          "en": "Strategic thinking",
+          "ru": "Стратегическое мышление",
+          "hy": "Ռազմավարական մտածողություն"
+        },
+        "description": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "icon": "fa-solid fa-comments-dollar"
+      }
+    ],
+    "secondAbout": [
+      {
+        "id": 5,
+        "title": {
+          "en": "Why you'll love us",
+          "ru": "Почему вы полюбите нас",
+          "hy": "Ինչու դուք կսիրեք մեզ"
+        }
+      },
+      {
+        "id": 6,
+        "description": {
+          "en": "Strategic thinking looks beyond what's in front of you to see the bigger picture.",
+          "ru": "Стратегическое мышление выходит за рамки того, что перед вами, чтобы увидеть общую картину.",
+          "hy": "Ռազմավարական մտածողությունը ձեզանից առաջ նայում է ավելի լայն հեռանկարին:"
+        },
+        "icon": "fa-regular fa-circle-check"
+      },
+      {
+        "id": 7,
+        "description": {
+          "en": "You'll have access to some of the brightest minds from all corners of the web.",
+          "ru": "У вас будет доступ к одним из самых ярких умов со всех уголков Интернета.",
+          "hy": "Դուք կունենաք մուտք դեպի ինտերնետի բոլոր անկյուններից ամենապայծառ մտքեր:"
+        },
+        "icon": "fa-regular fa-circle-check"
+      },
+      {
+        "id": 8,
+        "description": {
+          "en": "Getting to know your brand inside and out means we can innovate on your behalf.",
+          "ru": "Знание вашего бренда изнутри и снаружи означает, что мы можем внедрять инновации от вашего имени.",
+          "hy": "Ձեր բրենդին ներսից և դրսից ծանոթանալը նշանակում է, որ մենք կարող ենք նորամուծություններ անել ձեր անունից:"
+        },
+        "icon": "fa-regular fa-circle-check"
+      },
+      {
+        "id": 9,
+        "description": {
+          "en": "When things take a turn, our partnership means we work with you to find creative solutions.",
+          "ru": "Когда дела идут не так, наше партнерство означает, что мы работаем с вами, чтобы найти творческие решения.",
+          "hy": "Երբ իրավիճակը փոխվում է, մեր գործընկերությունը նշանակում է, որ մենք աշխատում ենք ձեզ հետ ստեղծագործ լուծումներ գտնելու համար:"
+        },
+        "icon": "fa-regular fa-circle-check"
+      }
+    ],
+    "thirdAbout": [
+      {
+        "id": 9,
+        "mainTitle": {
+          "en": "We believe in collaboration and innovation.",
+          "ru": "Мы верим в сотрудничество и инновации.",
+          "hy": "Մենք հավատում ենք համագործակցությանը և նորարարությանը:"
+        },
+        "mainDescription": {
+          "en": "These core values define who we are and the work we do.",
+          "ru": "Эти основные ценности определяют, кто мы и какую работу мы выполняем.",
+          "hy": "Այս հիմնական արժեքները սահմանում են, թե ով ենք մենք և ինչ աշխատանք ենք կատարում:"
+        }
+      },
+      {
+        "id": 10,
+        "title": {
+          "en": "We're genuine and compassionate.",
+          "ru": "Мы искренни и сострадательны.",
+          "hy": "Մենք անկեղծ ենք և կարեկցող:"
+        },
+        "description": {
+          "en": "Being in the people business can mean difficult decisions and tough conversations. We believe in going into every meeting with a desire and ability to be genuine and compassionate. We are all people, and people make mistakes. We're here to help you fix those, without risk or judgment, and move forward.",
+          "ru": "Работа с людьми может означать сложные решения и трудные разговоры. Мы верим, что каждый раз, встречаясь с желанием и способностью быть искренними и сострадательными. Мы все люди, и люди совершают ошибки. Мы здесь, чтобы помочь вам исправить их без риска и осуждения, и двигаться вперед.",
+          "hy": "Մարդկանց հետ աշխատելը կարող է նշանակել դժվարին որոշումներ և բարդ զրույցներ: Մենք հավատում ենք, որ յուրաքանչյուր հանդիպմանը պետք է գնանք անկեղծության և կարեկցանքի ցանկությամբ և ունակությամբ: Մենք բոլորս մարդիկ ենք, և մարդիկ սխալվում են: Մենք այստեղ ենք՝ օգնելու ձեզ ուղղել այդ սխալները՝ առանց ռիսկի կամ դատապարտման, և առաջ շարժվել:"
+        }
+      },
+      {
+        "id": 11,
+        "title": {
+          "en": "Honesty, integrity, and accountability.",
+          "ru": "Честность, добросовестность и ответственность.",
+          "hy": "Ազնվություն, ամբողջականություն և հաշվետվողականություն:"
+        },
+        "description": {
+          "en": "Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis.",
+          "ru": "Темпус эгестас сидит сед risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Сед lectus vestibulum mattis ullamкорпер velit сед ullamкорпер. Etiam sit amet nisl purus in mollis.",
+          "hy": "Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis."
+        }
+      },
+      {
+        "id": 12,
+        "title": {
+          "en": "Passion for our clients.",
+          "ru": "Страсть к нашим клиентам.",
+          "hy": "Մեր հաճախորդների հանդեպ կիրք:"
+        },
+        "description": {
+          "en": "Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis.",
+          "ru": "Темпус эгестас сидит сед risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Сед lectus vestibulum mattis ullamкорпер velit сед ullamкорпер. Etiam sit amet nisl purus in mollis.",
+          "hy": "Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis."
+        }
+      },
+      {
+        "id": 13,
+        "title": {
+          "en": "Drive for results, with unparalleled service.",
+          "ru": "Стремление к результатам, с непревзойденным обслуживанием.",
+          "hy": "Արդյունքների ձգտում, աննման ծառայություններով:"
+        },
+        "description": {
+          "en": "Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis.",
+          "ru": "Темпус эгестас сидит сед risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Сед lectus vestibulum mattis ullamкорпер velit сед ullamкорпер. Etiam sit amet nisl purus in mollis.",
+          "hy": "Tempus egestas sed sed risus pretium quam vulputate dignissim. Ipsum consequat nisl vel pretium lectus quam id leo in. In pellentesque massa placerat duis ultricies lacus. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Etiam sit amet nisl purus in mollis."
+        }
+      }
+    ],
+    "clients": [
+      {
+        "id": 14,
+        "title": {
+          "en": "Clients we believe in",
+          "ru": "Клиенты, в которых мы верим",
+          "hy": "Հաճախորդներ, որոնց մենք հավատում ենք"
+        },
+        "description": {
+          "en": "Paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio.",
+          "ru": "Параграф. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio.",
+          "hy": "Պարբերություն. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur id suscipit ex. Suspendisse rhoncus laoreet purus. Phasellus sed efficitur dolor, et ultricies sapien. Quisque fringilla sit amet dolor commodo efficitur. Aliquam et sem odio."
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 15,
+        "mainTitle": {
+          "en": "Testimonials",
+          "ru": "Отзывы",
+          "hy": "Վկայություններ"
+        }
+      },
+      {
+        "id": 16,
+        "name": {
+          "en": "Stella Larson",
+          "ru": "Стелла Ларсон",
+          "hy": "Ստելլա Լարսոն"
+        },
+        "about": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "img": "https://images02.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/6e77b088add750adb748c9e4/pexels-photo-4576085.jpeg?version="
+      },
+      {
+        "id": 17,
+        "name": {
+          "en": "Nick Johnson",
+          "ru": "Ник Джонсон",
+          "hy": "Նիք Ջոնսոն"
+        },
+        "about": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "img": "https://images02.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ea78d2245c955eaba54a5702/pexels-photo-5141074.jpeg?version="
+      },
+      {
+        "id": 18,
+        "name": {
+          "en": "Olga Ivanova",
+          "ru": "Ольга Иванова",
+          "hy": "Օլգա Իվանովա"
+        },
+        "about": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "img": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/502e4bcf1d4f579b94d1e793/pexels-photo-9821204.jpeg"
+      },
+      {
+        "id": 19,
+        "name": {
+          "en": "Paul Hudson",
+          "ru": "Пол Хадсон",
+          "hy": "Փոլ Հադսոն"
+        },
+        "about": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "img": "https://images02.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/22a6a6dad5ca522c96fc9b62/pexels-photo-2989724.jpeg?version="
+      },
+      {
+        "id": 20,
+        "name": {
+          "en": "Cash Hudson",
+          "ru": "Кэш Хадсон",
+          "hy": "Քեշ Հադսոն"
+        },
+        "about": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "img": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/8ee196c29f605c2ba607f750/pexels-photo-9787579.jpeg"
+      },
+      {
+        "id": 21,
+        "name": {
+          "en": "Mike Perry",
+          "ru": "Майк Перри",
+          "hy": "Մայք Փերրի"
+        },
+        "about": {
+          "en": "Sample text. Click to select the text box. Click again or double click to start editing the text.",
+          "ru": "Пример текста. Щелкните, чтобы выбрать текстовое поле. Щелкните еще раз или дважды щелкните, чтобы начать редактирование текста.",
+          "hy": "Օրինակ տեքստ. Սեղմեք, որպեսզի ընտրեք տեքստի դաշտը: Կրկին սեղմեք կամ կրկնակի սեղմեք տեքստի խմբագրումը սկսելու համար։"
+        },
+        "img": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/3dae7e39431c52e799018bb6/pexels-photo-9867161.jpeg"
+      }
+    ], 
+    "sixthAbout": [
+      {
+        "id": 33,
+        "title": {
+          "en": "Want to launch your brand into the future? Strap in and let's go!",
+          "ru": "Хотите запустить свой бренд в будущее? Пристегнитесь, и поехали!",
+          "hy": "Ցանկանու՞մ եք ձեր ապրանքանիշը մղել դեպի ապագա: Ամրացեք և գնացինք!"
+        },
+        "description": {
+          "en": "Article evident arrived express highest men did boy. Mistress sensible entirely am so. Quick can manor smart money hopes worth too. Comfort produce husband boy her had hearing. Law others theirs passed but wishes. You day real less till dear read.",
+          "ru": "Исключитель sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+          "hy": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit."
+      }
+      }
+    ],
+    "follow": [
+    {
+      "id": 23,
+      "title": {
+        "en": "Follow us on Social",
+        "ru": "Подписывайтесь на нас в социальных сетях",
+        "hy": "Հետևեք մեզ սոցիալական ցանցերում"
+      },
+      "description": {
+        "en": "Looking for the latest industry insights, timely agency updates? Follow us on social:",
+        "ru": "Ищете последние отраслевые новости, своевременные обновления агентства? Подписывайтесь на нас в социальных сетях:",
+        "hy": "Փնտրու՞մ եք ոլորտի վերջին նորությունները, գործակալության արդիական թարմացումներ: Հետևեք մեզ սոցիալական ցանցերում:"
+      }
+    }
+  ],
+  "footer": [
+    {
+      "id": 24,
+      "title": {
+        "en": "Want to launch your brand into the future? Strap in and let's go!",
+        "ru": "Хотите запустить свой бренд в будущее? Пристегнитесь, и поехали!",
+        "hy": "Ցանկանու՞մ եք ձեր ապրանքանիշը մղել դեպի ապագա: Ամրացեք և գնացինք!"
+      },
+      "description": {
+        "en": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+        "ru": "Исключитель sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.",
+        "hy": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit."
+      }
+    }
+  ],
+  "footerContact": [
+    {
+      "location": {
+        "en": "location",
+        "ru": "местоположение",
+        "hy": "տեղակայություն"
+      },
+      "contacts": {
+        "en": "contacts",
+        "ru": "контакты",
+        "hy": "կոնտակտներ"
+      },
+      "follow": {
+        "en": "follow us",
+        "ru": "следите за нами",
+        "hy": "հետևեք մեզ"
+      }
+    }
+  ], 
+  "read": [
+    {
+      "id": 25,
+      "title": {
+        "en": "Read More",
+        "ru": "Читать далее",
+        "hy": "Կարդալ ավելին"
+      }
+    }
+    ], 
+  "start": [
+    {
+      "id": 25,
+      "title": {
+          "en": "Get Started",
+          "ru": "Начать",
+          "hy": "Սկսել"
+      }
+  }
+  ]
+  }
+  
